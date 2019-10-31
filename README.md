@@ -5,15 +5,15 @@
   
   Libraries are built in .so format, along with header includes. 
   
-  Platforms these libraries are built for are: 
-    - arm64-v8a
-    - armeabi-v74
-    - x86
-    - x86_64
+  Platforms these libraries are built for are:  
+    - arm64-v8a  
+    - armeabi-v74  
+    - x86  
+    - x86_64  
    
 ## Usage:
-  To use these libs, just download this repo as a zip
-  Paste the content of these folders in your own library folder
-  Link these through CMakeLists.txt
-  Enjoy.
+  To use these libs, just download this repo as a zip  
+  Paste the content of these folders in your own library folder  
+  Link these through CMakeLists.txt(I've added minimal CMakeLists.txt that you would need, feel free to use it)  
+  Enjoy.  
   
